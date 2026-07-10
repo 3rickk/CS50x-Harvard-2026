@@ -173,9 +173,9 @@ Todo o processo de implementação, testes e compreensão do conteúdo foi reali
 
 ## Credits
 
-- Basketball hoop sprite by <Autor>ReverseDmitry, downloaded from [<Site>](https://spritedatabase.net/file/23556).
+- Basketball hoop sprite by ReverseDmitry, downloaded from https://spritedatabase.net/file/23556.
 ## Assets
 
 - Hannah sprite: Scratch Sprite Library.
 - Diamond sprite: Scractch Sprite Library
-- Basketball hoop sprite: Obtained from [<Site>](https://spritedatabase.net/file/23556), used according to its license.
+- Basketball hoop sprite: Obtained from https://spritedatabase.net/file/23556, used according to its license.
