@@ -170,3 +170,12 @@ A IA foi utilizada principalmente para:
 ---
 
 Todo o processo de implementação, testes e compreensão do conteúdo foi realizado como parte do meu aprendizado. Sempre procuro entender as soluções antes de aplicá-las, utilizando a IA como uma ferramenta de apoio e não como substituta do estudo.
+
+## Credits
+
+- Basketball hoop sprite by <Autor>ReverseDmitry, downloaded from [<Site>](https://spritedatabase.net/file/23556).
+## Assets
+
+- Hannah sprite: Scratch Sprite Library.
+- Diamond sprite: Scractch Sprite Library
+- Basketball hoop sprite: Obtained from https://spritedatabase.net/file/23556, used according to its license.
