@@ -178,4 +178,4 @@ Todo o processo de implementação, testes e compreensão do conteúdo foi reali
 
 - Hannah sprite: Scratch Sprite Library.
 - Diamond sprite: Scractch Sprite Library
-- Basketball hoop sprite: Obtained from https://spritedatabase.net/file/23556, used according to its license.
+- Basketball hoop sprite: Obtained from [<Site>](https://spritedatabase.net/file/23556), used according to its license.
