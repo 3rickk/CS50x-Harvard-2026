@@ -150,6 +150,23 @@ Sempre que possível, procuro compreender a lógica por trás de cada solução 
 
 # 📬 Contato
 
-GitHub: **https://github.com/3rickk
+GitHub: https://github.com/3rickk
 
 ---
+
+## 🤖 Uso de Inteligência Artificial
+
+Durante o desenvolvimento deste repositório utilizei ferramentas de Inteligência Artificial como apoio ao estudo.
+
+A IA foi utilizada principalmente para:
+
+- esclarecer dúvidas sobre conceitos de programação;
+- revisar a lógica implementada;
+- sugerir melhorias de organização e documentação;
+- explicar erros encontrados durante o desenvolvimento.
+
+---
+*Sempre com o parâmetro de não me oferecer a resposta pronta e sim me ensinar ou dar ideias para que eu chegue na conclusão sozinho*
+---
+
+Todo o processo de implementação, testes e compreensão do conteúdo foi realizado como parte do meu aprendizado. Sempre procuro entender as soluções antes de aplicá-las, utilizando a IA como uma ferramenta de apoio e não como substituta do estudo.
